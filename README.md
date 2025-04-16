@@ -1,6 +1,6 @@
 # K-Means Clustering in Python
 
-This repository contains activities and exercises completed as part of the [K-Means Clustering in Python course on Coursera](https://coursera.org/learn/data-science-k-means-clustering-python). The course focuses on understanding and applying the K-Means clustering algorithm on real-world datasets using Python.
+This repository contains activities and exercises completed as part of the [Foundations of Data Science: K-Means Clustering in Python](https://coursera.org/learn/data-science-k-means-clustering-python) by **University of London**. The course focuses on understanding and applying the K-Means clustering algorithm on real-world datasets using Python.
 
 ## Projects Included
 
