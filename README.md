@@ -32,5 +32,5 @@ In this project, the World Happiness Report data is used to find patterns among 
 
 ### How to Use
 1. Clone the repository
-2. Open the notebooks in Jupyter or VS Code with Python support or colab
+2. Open the notebooks in Jupyter or VS Code with Python support or open this through Google Colab
 3. Run the cells to explore each clustering analysis step-by-step
